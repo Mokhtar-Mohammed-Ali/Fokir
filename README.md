@@ -1,2 +1,20 @@
-# Fokir
- A practice project focused on learning and applying CSS Flexbox to build modern, flexible layouts — instead of traditional float and display methods. Part of the Full Stack course at Root Academy, this project is a key step before moving on to media queries and CSS Grid for responsive web design.
+# Fokir Website
+
+A simple personal portfolio website built using **HTML** and **CSS (Flexbox)** only.  
+This project is part of my ongoing Full Stack training at Root Academy, and it focuses on modern layout techniques.
+
+## 🎯 What I learned:
+
+- Replacing old methods like `float` with **Flexbox**.
+- Aligning and distributing elements using `justify-content` and `align-items`.
+- Structuring responsive-ready sections with flexible layouts.
+- Creating a cleaner and more maintainable CSS structure.
+
+## 💡 Tools used:
+
+- HTML5
+- CSS3 (Flexbox)
+
+## 📸 Preview:
+
+![Project Screenshot](images/fokir.jpg)
